@@ -1,2 +1,1 @@
-# Coursera_Capstone
-IBM Specialization; Applied Data Science; Coursera; Capstone Project Course
+# This is the Capstone Project for IBM's "Applied Data Science Specialization" on Coursera
